@@ -23,7 +23,7 @@ ___
 + VS Code
 ___
 ## **Example code**
-```javascript
+```
 const firstLine = 'RS School is free-of-charge and community-based education';
 const secondLine  = 'program conducted by The Rolling Scopes developer community';
 const thirdLine = 'since 2013';
@@ -44,4 +44,3 @@ ___
 ## **English language**
 ### A1 beginner. In the learning process
 ___
-
