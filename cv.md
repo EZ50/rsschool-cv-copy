@@ -33,3 +33,15 @@ ___
 ## **Work experience**
 ### Not at the moment
 ___
+## **Education**
++ ### **Webflow service:**
+  [<img src='images/webflow.png' width='280' alt='Photo Certificate'>](images/Webflow.jpg)
++ ### **Web design in Figma:**
+  [<img src='images/ProDesign.png' width='280' alt='Photo Certificate'>](images/ProDesign.png)
++ ### **HTML/CSS:**
+  [<img src='images/FructCode.png' width='280' alt='Photo Certificate'>](images/FructCode.png)
+	___
+## **English language**
+### A1 beginner. In the learning process
+___
+
